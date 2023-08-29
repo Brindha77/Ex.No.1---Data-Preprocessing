@@ -91,7 +91,22 @@ print(df1)
 ```
 
 ## OUTPUT:
-
+## df.head():
+![a1](https://github.com/Brindha77/Ex.No.1---Data-Preprocessing/assets/118889143/09ba811d-7e72-462c-beb3-a3e8af67e42f)
+## df.isnull().sum():
+![a2](https://github.com/Brindha77/Ex.No.1---Data-Preprocessing/assets/118889143/a557de62-d8de-4f32-9dbb-722d711e3aee)
+## df value:
+![a3](https://github.com/Brindha77/Ex.No.1---Data-Preprocessing/assets/118889143/0185a5fa-44f2-4f67-9dd3-a1460a49847b)
+## VALUES OF INPUT AND OUTPUT DATA ON VAR X AND Y:
+![a4](https://github.com/Brindha77/Ex.No.1---Data-Preprocessing/assets/118889143/2c6370aa-209c-4861-8ac6-f6bf5cb41d71)
+## NORMALIZING DATA:
+![a5](https://github.com/Brindha77/Ex.No.1---Data-Preprocessing/assets/118889143/85a347e2-3be1-48f1-a8a2-7ae038a8ae03)
+## X_TRAIN AND Y_TRAIN VALUES:
+![a6](https://github.com/Brindha77/Ex.No.1---Data-Preprocessing/assets/118889143/495ddfdc-1818-4c6a-8acc-5699464b24d8)
+## X AND Y VALUES :
+![a7](https://github.com/Brindha77/Ex.No.1---Data-Preprocessing/assets/118889143/8712142d-e7e6-4b17-a132-6fcb27dc72cb)
+## X_TEST AND Y_TEST VALUES :
+![a8](https://github.com/Brindha77/Ex.No.1---Data-Preprocessing/assets/118889143/1c0d5cc5-91c4-4c81-a510-28af2d23aeb0)
 
 ## RESULT
-/Type your result here/
+Thus,the program to perform Data preprocessing in a data set downloaded from Kaggle is implemented successfully   
